@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am a Java Developer👋
+
+- I`m Computer Science student at KNU (Taras Shevchenko National University)
+- I’m currently learning Java on SoftServe Online Marathon
+- Learning Java on EPAM Systems university program
+- Java, Scala and Rust are my favorite PL
+
 
 <!--
 **RomanSulymka/RomanSulymka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
