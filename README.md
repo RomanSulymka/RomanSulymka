@@ -5,7 +5,7 @@
 - Learning Java on EPAM Systems university program
 - Java, Scala and Rust are my favorite PL ❤
 
-
+![alt tag](https://github.com/RomanSulymka/RomanSulymka/blob/main/photo_2020-11-02_18-07-47.jpg)
 <!--
 **RomanSulymka/RomanSulymka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
