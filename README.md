@@ -1,6 +1,7 @@
 ### Hi there, I am a Java Developer👋
 
 - I`m Computer Science student at NUFT
+- I’m currently learning Kotlin Android Development at PariMatch Tech
 - I’m currently learning Java on SoftServe Online Marathon
 - Learning Java on EPAM Systems university program
 - Java, Scala and Rust are my favorite PL ❤
