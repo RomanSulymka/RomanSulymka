@@ -2,9 +2,9 @@
 
 - I`m Computer Science student
 - I’m currently learning Kotlin Android Development at PariMatch Tech
-- Learning Java on SoftServe Online Marathon
-- Learning Java on EPAM Systems university program
-- Java, Scala and Rust are my favorite PL ❤
+- Learned Java on SoftServe Online Marathon
+- Learned Java on EPAM Systems university program
+- Java, Scala, Kotlin and Rust are my favorite PL ❤
 
 ![alt tag](https://github.com/RomanSulymka/RomanSulymka/blob/main/photo_2020-11-02_18-07-47.jpg)
 <!--
