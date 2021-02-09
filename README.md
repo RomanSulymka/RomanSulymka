@@ -8,7 +8,7 @@
 
 ### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=arch-linux&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
