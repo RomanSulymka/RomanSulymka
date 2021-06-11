@@ -1,9 +1,8 @@
 ### Hi there, I am a Java Developer👋
 
 - I`m Computer Science student
-- I’m currently learning Kotlin Android Development at PariMatch Tech
+- Learned Kotlin Android Development at PariMatch Tech
 - Learned Java on SoftServe Online Marathon
-- Learned Java on EPAM Systems university program
 - Java, Scala, Kotlin and Rust are my favorite PL ❤
 
 ### 🔧 Technologies & Tools
