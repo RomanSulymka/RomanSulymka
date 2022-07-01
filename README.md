@@ -1,6 +1,8 @@
-### Hi there, I am a Java Developer👋
+### Hi there, I am a Android / Java Developer👋
 
-- I`m Computer Science student
+- I`m Software Engineering student
+- Working on the medical domain project
+- Finished Green City Project at SoftServe
 - Learned Kotlin Android Development at PariMatch Tech
 - Learned Java on SoftServe Online Marathon
 - Java, Scala, Kotlin and Rust are my favorite PL ❤
